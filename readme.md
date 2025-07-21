@@ -89,7 +89,7 @@ Big thanks to these companies for supporting the project.
 </tbody></table>
 
 ## 🛠️ Development & Testing
-
+Use Jenkins for testing
 Please see our [development docs](dev/docs/development.md) for full details regarding work on the BookStack source code.
 
 If you're just looking to customize or extend your own BookStack instance, take a look at our [Hacking BookStack documentation page](https://www.bookstackapp.com/docs/admin/hacking-bookstack/) for details on various options to achieve this without altering the BookStack source code.
