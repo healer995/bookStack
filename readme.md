@@ -45,8 +45,6 @@ Big thanks to these companies for supporting the project.
 
 [Project donation details](https://www.bookstackapp.com/donate/) - [GitHub Sponsors Page](https://github.com/sponsors/ssddanbrown) - [Ko-fi Page](https://ko-fi.com/ssddanbrown)
 
-#### Gold Sponsor
-
 <table><tbody><tr>
 <td align="center"><a href="https://www.federated.computer/bookstack-wiki" target="_blank">
     <img width="480" src="https://www.bookstackapp.com/images/sponsors/federated-computer.png" alt="Federated.computer">
